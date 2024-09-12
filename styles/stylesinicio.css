@@ -135,3 +135,10 @@ transition: transform 0.3s ease;
 .img-zoom:hover {
     transform: scale(1.2);
 }
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.5rem; /* Ajuste o tamanho conforme necessário */
+        line-height: 1.2;  /* Ajuste a altura da linha para melhor legibilidade */
+        margin: 0.5rem 0;  /* Ajuste a margem */
+    }
+}
