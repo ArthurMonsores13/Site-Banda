@@ -112,6 +112,7 @@ footer {
     position: center;
     width: 100%;
     bottom: 0;
+    padding: 240px;
 } 
 .album-container {
     display: flex;
